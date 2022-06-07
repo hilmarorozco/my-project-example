@@ -1,0 +1,1 @@
+print("This is a practice to learn to use git for CSE 210.")
